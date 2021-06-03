@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Horrid and strange news from Ireland: being a true relation of what happened in the province of Munster, at a castle of one of the Fitz Garrets, called Ballimarter, wherein there were very strange apparitions, the like never before heard of, to the amazement of all the beholders. Written by Henry Lovel Gent. being an eyewitnesse and a fellow-feeler thereof, now in London ready to averre the same for truth.  This is licenced and entered according to order.</title>
+            <author>Lovel, Henry.</author>
+         </titleStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88609</idno><idno type="EEBO-CITATION">99869786</idno>
+  <idno type="VID">122170</idno>
+  <idno type="EEBO-PROQUEST">2240953429</idno>
+  
+            <idno type="STC">Wing L3236</idno>
+            <idno type="STC">Thomason E78_1</idno>
+            <idno type="STC">ESTC R21105</idno>
+            <idno type="PROQUEST">99869786</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99869786e"/>
+            <note>(EEBO-TCP ; phase 2, no. A88609)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 122170)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 13:E78[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Horrid and strange news from Ireland: being a true relation of what happened in the province of Munster, at a castle of one of the Fitz Garrets, called Ballimarter, wherein there were very strange apparitions, the like never before heard of, to the amazement of all the beholders. Written by Henry Lovel Gent. being an eyewitnesse and a fellow-feeler thereof, now in London ready to averre the same for truth.  This is licenced and entered according to order.</title>
+                  <author>Lovel, Henry.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Tho. Harper.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"50 copies printed.".</note>
+                  <note>Annotation on Thomason copy: "Decemb: 7th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Apparitions --  Early works to 1800.</term>
+               <term type="topical_term">Ghosts --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:122170:1"/>
+            <pb facs="tcp:122170:1"/>
+            <p>Horrid and Strange News from IRELAND: Being a True RELATION Of what happened in the Province of <hi>Munster,</hi> at a Castle of one of the <hi>Fitz Garrets,</hi> called <hi>Ballimarter,</hi> wherein there were very strange Apparitions, the like never before heard of, to the amazement of all the Beholders.</p>
+            <p>Written by <hi>Henry Lovel</hi> Gent. being an Eye<g ref="char:EOLhyphen"/>witnesse and a fellow-feeler thereof, now in <hi>London</hi> ready to averre the same for truth.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>This is Licenced and Entered according to Order.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Tho. Harper.</hi> 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb n="2" facs="tcp:122170:2"/>
+            <head>Horrid and strange News from <hi>Ireland.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">I</seg> Being in <hi>Ireland,</hi> and travelling into <hi>Munster,</hi> with Sir <hi>Donough Mac Carty,</hi> now Lord of <hi>Musquerie,</hi> wee came to a Castle of one of the <hi>Fitz Garrets</hi> called <hi>Ballimarter,</hi> where our lodging was in a low chamber at the upper end of the Hall, the chamber had two win<g ref="char:EOLhyphen"/>dowes, a long table, two formes, two beds; my friend and his cousen, one of the sons of the Gentleman of the Castle lay together, and I lay against the door: as we came into the chamber a hound of the house going in before me, I saw the Dog shew great feare as he went under the bed, but I thought nothing of it: one of the servants set down a candle up<g ref="char:EOLhyphen"/>on the ground by me, and there came a blast of winde from the doore, and blue out the candle that it strucke the snuffe on the one side; said I, who blue out the candle, no body here, said my friend, then no body did it said I, and then, and not before, did I remember what my friend said to me upon the way, that the house was haunted with Spirits; presently something made such a noise upon the top of the tester like the noise of squibs: how now said I, are you there already? the thing made the like noise againe, I stept up at the beds feet, and there was a handsome beast like a Cat, and it tur<g ref="char:EOLhyphen"/>ned the head and looked upon me, it was grisled about the nose, and away it scudled to the upper end of the bed, and sunke downe. I told the com<g ref="char:EOLhyphen"/>pany that I had seen the finest beast that ever I saw in my life, after wee were in bed there were lights upon the wall that went round about the chamber, but something had got my friend by the leg, and he cried out mainly, and I did not finde that his bed-fellow give him any helpe at all, which made me think he cried so to make me afraid, but he being almost pulled out by the heels the Spirit let goe his leg, and his bed-fellow be<g ref="char:EOLhyphen"/>gan to roare out a maine, and I began to startle: whats the matter with you there said I: there is one, saies he, lies upon me &amp; is ready to kill me: thought I with my selfe, if the heire of the house be thus dealt withall, I shall bee paid by and by: with that I felt something creeping upon the bed, but it was nothing but the Hound that came for succour; then the boots began for to flye at their heads, the table went one way, the formes were drawn another way, such a damnable noise in the Hall as if twenty had been to<g ref="char:EOLunhyphen"/>gether
+<pb n="3" facs="tcp:122170:2"/> by the ears: I thought that all the Divels in Hell were gotten toge<g ref="char:EOLhyphen"/>ther, but I could see nothing, and that was throwne was at their heads, this continued three houres together; and then began the stir over head among the servants, all the bed cloathes pulled off them, beaten with their bootes, and never gave them over untill it was almost day.</p>
+            <p>The next day being Friday my friend went into the Country about some businesse, but that night I heard nothing stir in the chamber, but in the Hall, and among the servants above they were soundly beaten. Upon Saturday at night my friend came home, and I comming from the boord in the Hall, there stood a candle upon the table, and one of the servants ta<g ref="char:EOLhyphen"/>king the candlesticke in his hand, there came a breath or blast of winde of the colour of a Rain-bow as big as my arm, as if it had come out of a squirt, with that force that if it had been a torch it would have been blowne out, said I, we are like to have a pr<gap reason="illegible: faint" extent="2 letters">
+                  <desc>••</desc>
+               </gap>y night of this when as we cannot be suf<g ref="char:EOLhyphen"/>fered to goe quietly out of the Hall; as soone as we were in bed, there was a Bell rung about the chamber, and such a crying of <hi>O hone</hi> all about the yard, that it was wonderfull to heare their audible voyces; immediate<g ref="char:EOLhyphen"/>ly my rug was pulled from me, I complained to my friend for the losse of my cloaths, by my soule said he, we have lost rug, and sheet and all, let us rise together and get our cloaths, but he made me no answer. I heard some<g ref="char:EOLhyphen"/>thing rattle upon the chest at my beds feet, doe you heare Sir, said I, do you mean I shall lye cold all night, presently I saw the rug come flying about the bed post griped at one corner, and so throwne upon me: I felt to see how it was laid, and I could not mend it. I tooke good hold of the rugge with both my hands, for I thought this kindnesse came not for nothing, presently something tooke hold of the cloaths a little below my knees, and pulled me up from the boulster: I pulled again, and down the Spirit fell up<g ref="char:EOLhyphen"/>on me as it were with two fi<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ts, after which, he pulled me up from the boulster eight or ten times, thought I if he continue to pull thus divelishly, he will tyer me out quite, I must thinke of a remedy, I gave a strong pull with all my might, and withall I start up and caught at him with one of my hands so that I made him let goe, he strake me instantly with a boot over the knees, and laid on me as if I had done him a great deale of wrong. I start up and caught at the boot, but he shifted from one side to the other that I could never touch the boot; thought I, this is not the way, he strake upon one side, and I caught on the other side, &amp; then I had gotten the boot by the top with both hands, and then did I see him, he was no bigger then an Ape, but we made such an noise with puffing and blowing that my friend thought they had been killing of me, and asked me how I did, said I, here is a rogue hath beaten me with a boot, and I have hold of it, and will teare it in peeces before he shall pull the boot from me, but at last I haled
+<pb n="4" facs="tcp:122170:3"/> him so near me that I thought to catch him in mine armes, but he tumbled downe at the beds feet, and I was taken by the foot with a hand, I beat him off with the other foot, up comes a thing tumbling upon me, and sits upon my legs, I gave twenty plundges at him before I could kicke him off: my friend called to me to know how I did, said I, h<gap reason="illegible: faint" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e is a rogue rides me, but he was no sooner downe but he was upon me againe, but I start up and strake at him, and then he tumbled off me, in the meane time my friend knocked for his men, but no helpe came, and then the Spirits made sundry noises in the chamber, but especially one of them, for he cryed <hi>Weshaw, Weshaw, Weshaw,</hi> hold said I a little, I perceive you understand all Lan<g ref="char:EOLhyphen"/>guages, it may be that God will be so pleased that some way may be sound for the quiet of this place, but they cryed out as they did: I commanded them in Gods name to depart the chamber, but they continued their out<g ref="char:EOLhyphen"/>raging noise untill it pleased themselves; in comes a younger sonne of Mr. <hi>Fitz Garrets</hi> to know how we did, my friend having laine long with<g ref="char:EOLhyphen"/>out his cloaths, thought it a good time to get them, but as he stooped to take them up he had such a blow upon the bum that made him leap above ground, and came running to my bed side but he was followed so close that they both beat in upon me; young <hi>Fitz Garret</hi> tumbled over to the wal, my friend got in by me, but finding little rest there, he left me naked, and the cry began as it did before, <hi>Weshaw, Weshaw,</hi> and one lay snoring at my eare: sirra said I, you are broken winded, but the chamber being a little quiet, I looked towards the doore, and there I saw the shape of a man, and he pissed in my face, said I to my friend here is a rogue pisies, he would have said something to me but the Spirit pist in his mouth: by my soule, said he, the Spirit hath pissed in my mouth: you unmannerly Rascall said I, is this the entertainment you give to Gentlemen? this is the roguest trick that ever I did see; I was about to rise, and run upon him, but there appears one in a white shirt by the beds side, and he plaid with something under his shirt against his belly, that he made such a tunable noise that I could not but laugh at his roguery: how now sirra said I, are you good at that sport? here is a sweet crue of you, and with that I start up, and then away he went towards the doore; my friend being weary of his lodging got up, and ran where his bed cloaths lay, and got to his owne bed, after he was gone they slang all the boots and shooes that were in the chamber at mee; in the end there came a weighty thing upon me, what is that said the young man by me, nothing said I, but one of the long formes, and I pu<g ref="char:EOLhyphen"/>shed it downe at the beds feet, then they tumbled a joynt stoole upon the bed, and thus they did divers times; the roome being a little quiet the young man ran out of the chamber: said my friend to me, doe you see nothing at my window? there was the same shape in a white shirt that came to the
+<pb n="5" facs="tcp:122170:3"/> bed side, and having opened the shutting of the window, he raised him<g ref="char:EOLhyphen"/>selfe up to the height of the window, and grew big in the upper parts, and slender below, spreading his armes abroad naked up to the elbow, and sometimes he would sinke downe to his former posture, and up again with a body like a Gyant: in the end I called him, white shirt said I, you have done very we<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l, and then he shut up the window and was seen no more: my friend called to me againe, see you nothing at our window, I looked and saw two hands taboring upon the glasse: those hands have a face, said I, I will out and see, but I could see nothing but his armes, and his head bob up and downe, it was as light as day in the yard: then he tossed up a short mantle to the top of the window, and when it fell downe he tooke it in his armes, and up with it again, thus did he divers times: thought I he will doe something else besides playing with his mantle, I will stand to the casement, it may be he will open it, and then I shall see his posture, if not, I will open the window. I had no sooner setled my selfe but the casement opened without any winde at all, and he looks in upon me, a young face, long, lean and hollow eyed: I thrust my hand at his throat, but he avoided most nimbly under my hand, and clapped himselfe flat to the wall, as flat as a cake, and turned up his face and looked at me. O you Rogue said I, I will see how you will bestow your selfe, but my fight was taken from him upon another that stood against the window in English apparrell, and he began to walke towards the Hall staires, so I shut the window and went to bed, but I was scarce laid downe when one of them strake me over the face with a leather belt, and hurt my face: nay said I, take this and take all, and after him I went, and striking at him I hit my friends bed poste, and hurt my fingers, then was I wilde, and ran after him about the table, and laid about me upon every side, and seeing some shadowes before me, I spread my armes abroad, and ran them up against the wall at the doore but I thought they went out into the entry: I followed after, and locked up the doore, and as I was taking out the key; I told my friend that I had driven all the hel-hounds out of the chamber, but turning my head aside, there was one in white looking over my shoulder, &amp; away goes he between the table and the wall, and I after him with the key in my hand, striving to take him upon the pate, but he kept his distance so before me, that I found if I strake I should strike short, which made me sling the key at his backe, and the key went through him for he was but a shadow, and hee vanished away before me; the key sprang back under the tables end, and I could not finde it, and then I went and lay downe in my bed, and I saw a blacke head looking out from under my friends bed, and out he creeps in his former shape, goes to the tables end, stoops under and takes up the key, and goes into the entry, and unlocks the doore, and takes the latch in his
+<pb n="6" facs="tcp:122170:4"/> other hand, and flings the doore wide open, and walkes along the entry into the Hall; a Harpe being in the window one begins to play an Irish tune, and plaid halfe a quarter of an houre, but so singularly well, that it was not possible for man to doe the like, and plaid an Irish dance, and before I was aware there was some seven or eight young men to looke up<g ref="char:EOLhyphen"/>on, dancing in a ring, and one of them had a paire of tables in his hands, and all to ratled them up and downe, and when he left playing they were not to be seen: then he plaid againe, and they were in againe dancing as before, but as soone as he left playing they were vanished upon a sudden: well thought I, you shall serve me so no more, a mouse shall not come in at the doore but I will see it, the first thing I saw was a whip of lightning no bigger then a bow-string, and withall there was a limbe of the Divell kic<g ref="char:EOLhyphen"/>ked into the roome, and gave such a bounce that it drew my sight fully up<g ref="char:EOLhyphen"/>on it, but before I could cast up my sight there was the shape of a body proportionable unto it, this shape was fifteen or sixteen foot of length, that his head touched the roofe of the chamber, and as he did walke for<g ref="char:EOLhyphen"/>ward he bounced and made such a noise that it was wonder to heare: I be<g ref="char:EOLhyphen"/>held him with a sorrowfull countenance, and I saw his knees above the boord, and I could not reach neare his waste, I having no acquaintance with him formerly, I thought it was an unequall match to graple with him, but I will see the going out, and after many turnes when he came to make himselfe even with the doore he vanished and became nothing, and pre<g ref="char:EOLhyphen"/>sently the cry was above staires, the servants lay three in a bed, and among them was a Priest, the first that was laid hold of was the Priest, they had him by the legs, and he cried out for helpe, and with much adoe, his fellowes kept him that he was not drawn quite out of the bed, but there he lay with feare and trembling all that night, and staid not in the morning to take leave: in the next bed lay a Harper, and he was pulled out of the bed by the stones with a whip-cord, and in the fall hurt his shoulder and was shrewdly beat about the chamber, before he could recover his bed, not one <gap reason="illegible: faint" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of clo<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ths left upon them, and were beaten with boots untill day<g ref="char:EOLhyphen"/>light.</p>
+            <p>Upon Sunday night I had a fire in my chamber, and a boy to maintaine the fire, and a staffe in my hand, purposing to be master of my lodging that night, I comming formost with my <gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>at in my hand, the stones came flying in at the window thick and threefold, but I shut the casement with my staffe and held downe the latch of the casement, and they pinched my fin<g ref="char:EOLhyphen"/>ger in the ring of the casement, so that my naile was brused, but I would not let goe, my friend standing in the chamber doore desired me to stand off from the window, doubting that my braines would have been dashed out with the stones; they flang two stones through the next light which
+<pb n="7" facs="tcp:122170:4"/> flew by my shoulder, brake foure panes of the glasse, and yet all the bro<g ref="char:EOLhyphen"/>ken glasse flue backward into the yard, and the crosse lead was beaten out<g ref="char:EOLhyphen"/>ward into the yard, and yet the stones flue into the chamber: the company being gone, I went to locke the chamber doore, but I could not finde the staple, I called my friend, and bid him see if he could finde the staple, I shot the locke into his hand and put the doore close to the poste, and yet no staple would be found, so we gave it over as pulled out of the post, and yet the staple was not taken out of the post: said I, it is no great matter for shut<g ref="char:EOLhyphen"/>ting of the doore, for if any of them come in I will make him an example to the rest of his fellows if I may see him, in the mean time I walked up and downe the chamber expecting no good: it was not long before I had a thumpe in the neck with a turfe thrown at me that it strake my cap on the one side, which I did not take very well, but it was not long but they hit me so againe, I laid about me with my staffe, but all in vaine, for I could see nothing; at last something came down the chimney ratling, which was nothing but an old scrubed broome, and then came downe such another, the basket hilt of a cudgell and stones they threw downe into the fire, then said I if you dare come no nearer I shall doe well enough this night, but they got a tricke at last that if I were at one end of the chamber, they would all to beat them that were in bed, but I came in to helpe them sud<g ref="char:EOLhyphen"/>denly, in the end they desired me to sit by them upon the bed, and full ma<g ref="char:EOLhyphen"/>ny a thumpe upon the backe I had, but I would not be driven from them, then they were so mad they threw the fire about the chamber: said I, I think these hel-hounds will burne the house, and as I sat upon the bed they clapt the hilt of the cudgell upon my cap, doe you see what a coxcombe they have put upon my head, I gave it the boy and made him burne it, then they tooke my Rapier off the bed and threw it against the ground, and when I tooke it up they threw a Pistoll after me and hit me on the leg: the night being well spent, and the fire almost wasted, the boy unseene by me was gone out of the chamber to get up the staires to his bed, but before he could get up they pulled him downe by the heels and beat him, so that he cried for helpe amaine. I not thinking of the boy ran to helpe, meaning to lay indifferently amongst them never remembring the boy, but as soone as I came among them they let the boy goe, and he ran into my armes, and I led him into the chamber, but they had handled him so ruffly, that I could not quiet him in a good while, and he told me that if I had not come and res<g ref="char:EOLhyphen"/>cued him they had killed him, then I went and sat by my friend, and set my candle upon the forme before me and they threw three times at it from the bed but did not put it out, then I tooke the candle in my hand and went and sat upon my own bed, and set the candle by me, and I heard something at the doore; I ran and pulled open the doore, and there were some eight
+<pb n="8" facs="tcp:122170:5"/> in the shapes of men, and the hindmost was in English habit, and they crowded one upon another making haste to be gone, so that the former was ready to turne into the Hall; when I had the first sight of this hope<g ref="char:EOLhyphen"/>full crue, and they were so far gone from me that I could not give a blow upon them, so I set my backe against the doore, and bid one of them if hee durst come and drive me into the chamber; but they did not shew them<g ref="char:EOLhyphen"/>selves nor make any noise: well said I, rather then want sport come all the whole crue of you and let us have one rough bout before I go to rest: then they shewed the light of a candle through the chinkes of the staires; said I, now I perceive your meaning, you intend to goe and visit your friends a<g ref="char:EOLhyphen"/>bove staires, and I will goe and take my rest, and as soon as I had shut my door, I might heare them at it above head: the men cried, the dogs cried, for they were throwne from one end of the roome to the other, and thus this last night was ended, and I was glad I had no more hurt among them.</p>
+            <closer>
+               <signed>Your loving Friend <hi>Henry Lovel.</hi>
+               </signed>
+            </closer>
+            <postscript>
+               <p>AFter my comming to Dublin a friend of mine told me that he came from this Castle, and that Mr. <hi>Fitz Garret</hi> and he playing at Tables late, sent the Butler into the Seller for Beere, but the Butler came running up again, and told his Master that <hi>Gibbaloney</hi> the great Divell was sitting at the barrells head with a candle in his hand taking Tobacco, and another came running out of his chamber in his shirt, and said that <hi>Gibbaloney</hi> the great Divell had pulled him out of his bed, and tossed him up that he hit the feeling of the chamber, and as he fell downe he caught him in his armes and threw him into bed again.</p>
+            </postscript>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
